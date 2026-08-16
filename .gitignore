@@ -1,0 +1,9 @@
+_pycache_/
+*.pyc
+.venu/
+venu/
+env/
+.env/
+.env
+.DS_store
+.ipynb_checkpoints/
